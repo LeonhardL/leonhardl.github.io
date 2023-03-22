@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>www.lantzberg.at</title>
+    <link href="https://www.lantzberg.at/feed.xml" rel="self" />
+    <link href="https://www.lantzberg.at" />
+    <updated>2023-03-22T22:17:38+01:00</updated>
+    <author>
+        <name>LL</name>
+    </author>
+    <id>https://www.lantzberg.at</id>
+
+    <entry>
+        <title>Alles Gute</title>
+        <author>
+            <name>LL</name>
+        </author>
+        <link href="https://www.lantzberg.at/allesgute/"/>
+        <id>https://www.lantzberg.at/allesgute/</id>
+            <category term="AllesGute"/>
+
+        <updated>2023-03-22T22:17:38+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper gallery-wrapper--full"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
+<figure class="gallery__item"><a href="https://www.lantzberg.at/media/posts/1/gallery/crysan-4.jpg" data-size="1024x1024"><img loading="lazy" src="https://www.lantzberg.at/media/posts/1/gallery/crysan-4-thumbnail.jpg" alt="" width="720" height="720"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+</feed>
