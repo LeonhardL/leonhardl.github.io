@@ -13,7 +13,7 @@
             "id": "https://www.lantzberg.at/allesgute/",
             "url": "https://www.lantzberg.at/allesgute/",
             "title": "Alles Gute",
-            "content_html": "<div class=\"gallery-wrapper gallery-wrapper--full\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"1\">\n<figure class=\"gallery__item\"><a href=\"https://www.lantzberg.at/media/posts/1/gallery/crysan-4.jpg\" data-size=\"1024x1024\"><img loading=\"lazy\" src=\"https://www.lantzberg.at/media/posts/1/gallery/crysan-4-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"720\"></a></figure>\n</div></div>",
+            "content_html": "<div class=\"gallery-wrapper gallery-wrapper--full\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"1\">\n<figure class=\"gallery__item\"><a href=\"https://www.lantzberg.at/media/posts/1/gallery/crysan-4.jpg\" data-size=\"1024x1024\"><img decoding=\"async\" loading=\"lazy\" src=\"https://www.lantzberg.at/media/posts/1/gallery/crysan-4-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"720\"></a></figure>\n</div></div>",
             "author": {
                 "name": "LL"
             },
