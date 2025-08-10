@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "www.lantzberg.at",
+    "description": "",
+    "home_page_url": "file:///C:\Users\Leonhard\Documents\GithubRep\LeonhardL.github.io",
+    "feed_url": "file:///C:\Users\Leonhard\Documents\GithubRep\LeonhardL.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "LL"
+    },
+    "items": [
+        {
+            "id": "file:///C:\Users\Leonhard\Documents\GithubRep\LeonhardL.github.io/2023/index.html",
+            "url": "file:///C:\Users\Leonhard\Documents\GithubRep\LeonhardL.github.io/2023/index.html",
+            "title": "2023",
+            "content_html": "\n    <figure class=\"post__image post__image--wide\">\n      <img decoding=\"async\" src=\"file:///C:/Users/Leonhard/Documents/GithubRep/LeonhardL.github.io/media/posts/2/Blume-2.jpg\" height=\"2736\" width=\"3648\" alt=\"\"  sizes=\"100vw\" srcset=\"file:///C:/Users/Leonhard/Documents/GithubRep/LeonhardL.github.io/media/posts/2/responsive/Blume-2-xs.jpg 300w ,file:///C:/Users/Leonhard/Documents/GithubRep/LeonhardL.github.io/media/posts/2/responsive/Blume-2-sm.jpg 480w ,file:///C:/Users/Leonhard/Documents/GithubRep/LeonhardL.github.io/media/posts/2/responsive/Blume-2-md.jpg 768w ,file:///C:/Users/Leonhard/Documents/GithubRep/LeonhardL.github.io/media/posts/2/responsive/Blume-2-lg.jpg 1024w ,file:///C:/Users/Leonhard/Documents/GithubRep/LeonhardL.github.io/media/posts/2/responsive/Blume-2-xl.jpg 1360w ,file:///C:/Users/Leonhard/Documents/GithubRep/LeonhardL.github.io/media/posts/2/responsive/Blume-2-2xl.jpg 1600w\">\n      \n    </figure>",
+            "image": "file:///C:\Users\Leonhard\Documents\GithubRep\LeonhardL.github.io/media/posts/2/Blume.jpg",
+            "author": {
+                "name": "LL"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-07-22T23:25:44+02:00",
+            "date_modified": "2025-08-10T20:32:44+02:00"
+        }
+    ]
+}
