@@ -2,19 +2,19 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "www.lantzberg.at",
     "description": "",
-    "home_page_url": "file:///C:\Users\Leonhard\Documents\GithubRep\LeonhardL.github.io",
-    "feed_url": "file:///C:\Users\Leonhard\Documents\GithubRep\LeonhardL.github.io/feed.json",
+    "home_page_url": "https://www.lantzberg.at",
+    "feed_url": "https://www.lantzberg.at/feed.json",
     "user_comment": "",
     "author": {
         "name": "LL"
     },
     "items": [
         {
-            "id": "file:///C:\Users\Leonhard\Documents\GithubRep\LeonhardL.github.io/2023/index.html",
-            "url": "file:///C:\Users\Leonhard\Documents\GithubRep\LeonhardL.github.io/2023/index.html",
+            "id": "https://www.lantzberg.at/2023/",
+            "url": "https://www.lantzberg.at/2023/",
             "title": "2023",
-            "content_html": "\n    <figure class=\"post__image post__image--wide\">\n      <img decoding=\"async\" src=\"file:///C:/Users/Leonhard/Documents/GithubRep/LeonhardL.github.io/media/posts/2/Blume-2.jpg\" height=\"2736\" width=\"3648\" alt=\"\"  sizes=\"100vw\" srcset=\"file:///C:/Users/Leonhard/Documents/GithubRep/LeonhardL.github.io/media/posts/2/responsive/Blume-2-xs.jpg 300w ,file:///C:/Users/Leonhard/Documents/GithubRep/LeonhardL.github.io/media/posts/2/responsive/Blume-2-sm.jpg 480w ,file:///C:/Users/Leonhard/Documents/GithubRep/LeonhardL.github.io/media/posts/2/responsive/Blume-2-md.jpg 768w ,file:///C:/Users/Leonhard/Documents/GithubRep/LeonhardL.github.io/media/posts/2/responsive/Blume-2-lg.jpg 1024w ,file:///C:/Users/Leonhard/Documents/GithubRep/LeonhardL.github.io/media/posts/2/responsive/Blume-2-xl.jpg 1360w ,file:///C:/Users/Leonhard/Documents/GithubRep/LeonhardL.github.io/media/posts/2/responsive/Blume-2-2xl.jpg 1600w\">\n      \n    </figure>",
-            "image": "file:///C:\Users\Leonhard\Documents\GithubRep\LeonhardL.github.io/media/posts/2/Blume.jpg",
+            "content_html": "\n    <figure class=\"post__image post__image--wide\">\n      <img decoding=\"async\" src=\"https://www.lantzberg.at/media/posts/2/Blume-2.jpg\" height=\"2736\" width=\"3648\" alt=\"\"  sizes=\"100vw\" srcset=\"https://www.lantzberg.at/media/posts/2/responsive/Blume-2-xs.jpg 300w ,https://www.lantzberg.at/media/posts/2/responsive/Blume-2-sm.jpg 480w ,https://www.lantzberg.at/media/posts/2/responsive/Blume-2-md.jpg 768w ,https://www.lantzberg.at/media/posts/2/responsive/Blume-2-lg.jpg 1024w ,https://www.lantzberg.at/media/posts/2/responsive/Blume-2-xl.jpg 1360w ,https://www.lantzberg.at/media/posts/2/responsive/Blume-2-2xl.jpg 1600w\">\n      \n    </figure>",
+            "image": "https://www.lantzberg.at/media/posts/2/Blume.jpg",
             "author": {
                 "name": "LL"
             },
